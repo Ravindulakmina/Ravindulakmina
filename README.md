@@ -8,8 +8,10 @@
 ---
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dzdxnfmal/image/upload/v1731182777/my/wu8pbp0h7j5iarkv6kwe.jpg" width="600" style="border-radius: 10px;"/>
+  <img src="https://res.cloudinary.com/dzdxnfmal/image/upload/v1732185097/my/npmo4trvdfktleyfvzqh.gif" width="100%" style="border-radius: 10px;"/>
 </div>
+
+
 
 - 🌱 I’m currently learning **Python, Linux**
 - 🚀 Always exploring new technologies to improve my skills
