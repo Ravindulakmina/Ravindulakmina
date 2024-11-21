@@ -59,11 +59,10 @@
 ---
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindulakmina&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="45%" style="min-height: 500px;"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ravindulakmina&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="45%" style="min-height: 500px;" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindulakmina&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" style="min-height: 500px;"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ravindulakmina&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" style="min-height: 500px;" />
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ravindulakmina=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindulakmina=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+
 </p>
 
 <p align="center">
