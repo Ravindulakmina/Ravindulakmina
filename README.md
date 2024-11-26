@@ -61,17 +61,18 @@
 ---
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindulakmina&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" style="min-height: 500px;"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ravindulakmina&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" style="min-height: 500px;" />
-
-
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindulakmina&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" style="min-height: 200px;" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ravindulakmina&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" style="min-height: 200px;" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindulakmina&theme=radical" alt="GitHub Streak" width="60%"/>
-</p>
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindulakmina&theme=radical" alt="GitHub Streak" width="60%" style="min-height: 200px;" />
+</div>
 
 ---
+
+
+
 
 <div align="center">
   <h3>💼 Open to Collaborations</h3>
