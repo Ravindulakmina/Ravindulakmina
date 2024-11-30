@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="center">Connect with Me</h3>
+<h3 align="center">Connect with Me 🤝</h3>
 <p align="center">
   <a href="https://fb.com/ravindulakmina.me" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -33,7 +33,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages and Tools 🛠️</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" style="margin: 10px;" />
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" style="margin: 10px;" />
@@ -62,14 +62,14 @@
 
 
 ---
+<h3 align="center">📊 GitHub Analytics</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindulakmina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindulakmina&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+</div>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindulakmina&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" style="min-height: 200px;" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ravindulakmina&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" style="min-height: 200px;" />
-</p>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindulakmina&theme=radical" alt="GitHub Streak" width="60%" style="min-height: 200px;" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindulakmina&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
 </div>
 
 ---
@@ -78,3 +78,5 @@
   <h3>💼 Open to Collaborations</h3>
   <p>If you have a project idea or would like to collaborate, feel free to reach out! I’m always excited to work on new and challenging projects.</p>
 </div>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
