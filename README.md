@@ -33,6 +33,20 @@
 
 ---
 
+
+<h3 align="center">Achievements 🎉</h3>
+<p align="center">
+  I am proud to have earned the following achievement
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/58a169f0-383d-47a1-8050-7ddd39cec319/public_url">
+    <img src="https://images.credly.com/size/150x150/images/ee986187-6637-45e9-8184-8382dc117432/blob" alt="Credential Badge" style="max-width: 100%; height: auto;">
+  </a>
+</p>
+
+
+---
 <h3 align="center">Languages and Tools 🛠️</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" style="margin: 10px;" />
