@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **Python, Linux**
+- 🌱 I’m currently learning **Python, Go, Linux**
 - 🚀 Always exploring new technologies to improve my skills
 
 ---
