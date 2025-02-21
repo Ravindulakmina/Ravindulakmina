@@ -39,11 +39,26 @@
   I am proud to have earned the following achievement
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.credly.com/badges/58a169f0-383d-47a1-8050-7ddd39cec319/public_url">
     <img src="https://images.credly.com/size/150x150/images/ee986187-6637-45e9-8184-8382dc117432/blob" alt="Credential Badge" style="max-width: 100%; height: auto;">
   </a>
+</p> -->
+
+
+
+
+
+<p align="center">
+  <a href="https://www.credly.com/badges/58a169f0-383d-47a1-8050-7ddd39cec319/public_url" style="margin-right: 20px;">
+    <img src="https://images.credly.com/size/150x150/images/ee986187-6637-45e9-8184-8382dc117432/blob" alt="Credential Badge" style="max-width: 100%; height: auto;">
+  </a>
+  <a href="https://www.credly.com/badges/c59c923c-a2d2-4405-b555-11b9b9ed79cf/public_url">
+    <img src="https://images.credly.com/size/150x150/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" alt="Credential Badge" style="max-width: 100%; height: auto;">
+  </a>
 </p>
+
+
 
 
 ---
