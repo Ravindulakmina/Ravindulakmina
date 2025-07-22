@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ravindu Lakmina</h1>
+<p align='center'>
+<img width='100%' src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ravindu%20Lakmina&animation=fadeIn&section=header&textBg=false&fontColor=17202a%20&desc=Full%20Stack%20Developer%20&descAlign=50&descAlignY=64&reversal=false" />
+</p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ravindu+Lakmina;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Ravindu+Lakmina+👋;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=30">
 </p>
 <h3 align="center">A passionate Full Stack Developer with a flair for creating beautiful, responsive web and mobile experiences</h3>
 
