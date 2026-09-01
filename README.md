@@ -6,6 +6,15 @@
 </p>
 <h3 align="center">A passionate Full Stack Developer with a flair for creating beautiful, responsive web and mobile experiences</h3>
 
+<br>
+
+<p align="center">
+  <a href="https://ravindulakmina.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Website-000000?style=for-the-badge&logoColor=white" alt="Visit My Website"/>
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravindulakmina&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ravindulakmina" />
 </p>
